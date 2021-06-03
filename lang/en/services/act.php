@@ -1,0 +1,34 @@
+<?
+$MESS["JANUARY"] = "of January";
+$MESS["FEBRUARY"] = "of February";
+$MESS["MARCH"] = "of March";
+$MESS["APRIL"] = "of April";
+$MESS["MAY"] = "of May";
+$MESS["JUNE"] = "of June";
+$MESS["JULY"] = "of July";
+$MESS["AUGUST"] = "of August";
+$MESS["SEPTEMBER"] = "of September";
+$MESS["OCTOBER"] = "of October";
+$MESS["NOVEMBER"] = "of November";
+$MESS["DECEMBER"] = "of December";
+
+$MESS["TITLE"] = "Shipments delivery and acceptance certificate";
+$MESS["YEAR_SHORT"] = "";
+$MESS["CUSTONER"] = "Customer:";
+$MESS["EXECUTER"] = "Performer (deliverer): Yandex.Market LLC";
+$MESS["TEXT"] = " This statement is made in the fact that on the date specified above (the date of receipt of Shipments)<br>the Customer sent, and the Performer (the deliverer) accepted the following Shipments:";
+$MESS["NUM"] = "NO";
+$MESS["SHOP_NUM"] = "Shipment number in the Customer's system";
+$MESS["MARKET_NUM"] = "Shipment number in the Performer's system";
+$MESS["COST"] = "Declared cost, RUB.";
+$MESS["WEIGHT"] = "Weight, kg.";
+$MESS["QUANTITY"] = "Number of seats, PCs.";
+$MESS["SHIPMENT_GIVE_OUT"] = "Shipment sent (Customer)";
+$MESS["SHIPMENT_ACCEPT"] = "Shipment accepted (Performer/deliverer)";
+$MESS["SIGNATURE"] = "signature";
+$MESS["DECODING"] = "decoding";
+$MESS["LS"] = "LC";
+$MESS["SHIPMENT_GIVE_OUT_SHORT"] = "Sent";
+$MESS["SHIPMENT_ACCEPT_SHORT"] = "Accepted";
+$MESS["PAGE"] = "Page";
+$MESS["PAGE_OF"] = "of";

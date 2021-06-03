@@ -1,0 +1,11 @@
+DROP TABLE if exists b_iplogicberu_profile;
+DROP TABLE if exists b_iplogicberu_prop;
+DROP TABLE if exists b_iplogicberu_attr;
+DROP TABLE if exists b_iplogicberu_order;
+DROP TABLE if exists b_iplogicberu_api_log;
+DROP TABLE if exists b_iplogicberu_task;
+DROP TABLE if exists b_iplogicberu_error;
+DROP TABLE if exists b_iplogicberu_product;
+DROP TABLE if exists b_iplogicberu_box;
+DROP TABLE if exists b_iplogicberu_box_link;
+DROP TABLE if exists b_iplogicberu_condition;
